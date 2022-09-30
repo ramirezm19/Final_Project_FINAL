@@ -1,0 +1,27 @@
+.restaurant-img {
+    width: 125px;
+    height: 125px;
+}
+
+.update {
+    color: #ff652f;
+}
+
+.view {
+    color: #ff652f;
+}
+
+.happyhour {
+    width: 100px;
+    height: 600px;
+}
+
+/* comments 
+    Purple: #3500D3;
+    Orange: #FF652F; --went with the orange for the h3 in the Edit
+    Better purple: #8860D0;
+    More pink purple: #A64AC9;
+    Best: #802BB1
+
+
+*/

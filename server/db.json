@@ -1,0 +1,39 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "La Doña Mezcaleria",
+      "address": "13 E. Louisiana Ave., Denver, CO 80210",
+      "hhtimes": "2pm-7pm",
+      "menu": "$1 off all mezcal pours, $5 La Doña draft, $10 Mezcalrita, $9 House Marg, $1.50 Chips and Salsa, $11 Mix and Match cerveza and shot",
+      "hhdaymonday": true,
+      "hhdaytuesday": true,
+      "hhdaywednesday": true,
+      "hhdaythursday": true,
+      "hhdayfriday": true,
+      "hhdaysaturday": false,
+      "hhdaysunday": false
+    },
+    {
+      "id": "2",
+      "name": "Rocky Top Tavern",
+      "address": "4907 Lowell Blvd., Denver, CO 80221",
+      "hhtimes": "2pm-6pm",
+      "menu": "$4.00 wells, $15 for 20 wings",
+      "hhdaymonday": false,
+      "hhdaytuesday": true,
+      "hhdaywednesday": true,
+      "hhdaythursday": true,
+      "hhdayfriday": true,
+      "hhdaysaturday": false,
+      "hhdaysunday": false
+    },
+    {
+      "name": "Blake Street Tavern",
+      "address": "2301 Blake St., Denver, CO 80205",
+      "hhtimes": "2-5pm",
+      "menu": "$18 mimosa pitchers, $8.99 Tavern Burger Lunch, $6.00 BudLight Seltzer, $14 BudLight Pitchers",
+      "id": "OYj42Rq"
+    }
+  ]
+}
